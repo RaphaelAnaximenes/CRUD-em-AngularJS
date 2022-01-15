@@ -30,7 +30,3 @@ No realização deste trabalho verifiquei a facilidade na escrita simples dos c�
 
 Alunos participantes: 
 Raphael Anaximenes
-Ariadne Tagliaferro
-Rodrigo Ribeiro
-Adriano Clemente
-Amanda Cristina
